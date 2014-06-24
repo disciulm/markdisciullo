@@ -1,2 +1,7 @@
 .sass-cache
 export
+assets/.DS_Store
+
+assets/sass/.DS_Store
+
+assets/sass/vendor/.DS_Store
